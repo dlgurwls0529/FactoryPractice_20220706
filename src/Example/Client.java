@@ -1,4 +1,4 @@
-package Example1;
+package Example;
 
 public class Client {
     public static void main(String[] args) {

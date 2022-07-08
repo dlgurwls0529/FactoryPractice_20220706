@@ -1,4 +1,4 @@
-package Example1;
+package Example;
 
 public abstract class Ship {
     private String name;

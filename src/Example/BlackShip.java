@@ -1,7 +1,4 @@
-package Example1;
-
-import java.util.Date;
-import java.util.Random;
+package Example;
 
 public class BlackShip extends Ship{
 

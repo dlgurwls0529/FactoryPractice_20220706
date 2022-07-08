@@ -1,4 +1,4 @@
-package Example1;
+package Example;
 
 public class WhiteShip extends Ship {
 
